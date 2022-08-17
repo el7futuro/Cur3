@@ -1,0 +1,267 @@
+2022-08-16 22:43:46,333 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-16 22:43:46,333 [INFO]  * Restarting with stat
+2022-08-16 22:43:46,755 [WARNING]  * Debugger is active!
+2022-08-16 22:43:46,755 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 22:43:59,734 [INFO] Запрос /api/posts/3
+2022-08-16 22:43:59,736 [INFO] 127.0.0.1 - - [16/Aug/2022 22:43:59] "GET /api/posts/3 HTTP/1.1" 200 -
+2022-08-16 22:51:00,358 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 22:51:00,429 [INFO]  * Restarting with stat
+2022-08-16 22:51:01,011 [WARNING]  * Debugger is active!
+2022-08-16 22:51:01,011 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 22:52:50,832 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 22:52:50,877 [INFO]  * Restarting with stat
+2022-08-16 22:52:51,428 [WARNING]  * Debugger is active!
+2022-08-16 22:52:51,428 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 22:55:10,481 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 22:55:10,553 [INFO]  * Restarting with stat
+2022-08-16 22:55:11,141 [WARNING]  * Debugger is active!
+2022-08-16 22:55:11,141 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 22:59:14,740 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 22:59:14,799 [INFO]  * Restarting with stat
+2022-08-16 22:59:15,575 [WARNING]  * Debugger is active!
+2022-08-16 22:59:15,578 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:01:41,969 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:01:42,040 [INFO]  * Restarting with stat
+2022-08-16 23:01:42,936 [WARNING]  * Debugger is active!
+2022-08-16 23:01:42,939 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:02:41,873 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:02:41,940 [INFO]  * Restarting with stat
+2022-08-16 23:02:42,704 [WARNING]  * Debugger is active!
+2022-08-16 23:02:42,704 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:04:46,665 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:04:46,727 [INFO]  * Restarting with stat
+2022-08-16 23:04:47,196 [WARNING]  * Debugger is active!
+2022-08-16 23:04:47,196 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:08:54,268 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:08:54,409 [INFO]  * Restarting with stat
+2022-08-16 23:08:54,999 [WARNING]  * Debugger is active!
+2022-08-16 23:08:55,002 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:11:21,524 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:11:21,571 [INFO]  * Restarting with stat
+2022-08-16 23:11:21,995 [WARNING]  * Debugger is active!
+2022-08-16 23:11:21,995 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:13:29,140 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:13:29,203 [INFO]  * Restarting with stat
+2022-08-16 23:13:29,672 [WARNING]  * Debugger is active!
+2022-08-16 23:13:29,672 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:18:19,040 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:18:19,147 [INFO]  * Restarting with stat
+2022-08-16 23:18:19,756 [WARNING]  * Debugger is active!
+2022-08-16 23:18:19,762 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:23:50,305 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-16 23:23:50,305 [INFO]  * Restarting with stat
+2022-08-16 23:23:50,727 [WARNING]  * Debugger is active!
+2022-08-16 23:23:50,742 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:28:03,425 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:28:03,519 [INFO]  * Restarting with stat
+2022-08-16 23:28:04,175 [WARNING]  * Debugger is active!
+2022-08-16 23:28:04,175 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:32:07,018 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-16 23:32:07,033 [INFO]  * Restarting with stat
+2022-08-16 23:32:07,674 [WARNING]  * Debugger is active!
+2022-08-16 23:32:07,690 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:35:10,748 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-16 23:35:10,748 [INFO]  * Restarting with stat
+2022-08-16 23:35:11,170 [WARNING]  * Debugger is active!
+2022-08-16 23:35:11,170 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:37:06,766 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-16 23:37:06,766 [INFO]  * Restarting with stat
+2022-08-16 23:37:07,216 [WARNING]  * Debugger is active!
+2022-08-16 23:37:07,232 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:44:14,147 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:44:14,202 [INFO]  * Restarting with stat
+2022-08-16 23:44:14,811 [WARNING]  * Debugger is active!
+2022-08-16 23:44:14,814 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:44:47,466 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-16 23:44:47,531 [INFO]  * Restarting with stat
+2022-08-16 23:44:48,021 [WARNING]  * Debugger is active!
+2022-08-16 23:44:48,021 [INFO]  * Debugger PIN: 143-949-170
+2022-08-16 23:54:49,862 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-16 23:54:49,878 [INFO]  * Restarting with stat
+2022-08-16 23:54:50,268 [WARNING]  * Debugger is active!
+2022-08-16 23:54:50,268 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 00:00:25,884 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 00:00:25,884 [INFO]  * Restarting with stat
+2022-08-17 00:00:26,337 [WARNING]  * Debugger is active!
+2022-08-17 00:00:26,337 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 00:01:23,949 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 00:01:23,965 [INFO]  * Restarting with stat
+2022-08-17 00:01:24,387 [WARNING]  * Debugger is active!
+2022-08-17 00:01:24,387 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 00:03:06,040 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-17 00:03:06,101 [INFO]  * Restarting with stat
+2022-08-17 00:03:06,600 [WARNING]  * Debugger is active!
+2022-08-17 00:03:06,600 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 00:03:46,245 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-17 00:03:47,339 [INFO]  * Restarting with stat
+2022-08-17 00:03:48,214 [WARNING]  * Debugger is active!
+2022-08-17 00:03:48,229 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:12:23,837 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 20:12:23,853 [INFO]  * Restarting with stat
+2022-08-17 20:12:24,333 [WARNING]  * Debugger is active!
+2022-08-17 20:12:24,348 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:13:55,427 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 20:13:55,443 [INFO]  * Restarting with stat
+2022-08-17 20:13:55,896 [WARNING]  * Debugger is active!
+2022-08-17 20:13:55,896 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:22:07,391 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-17 20:22:07,454 [INFO]  * Restarting with stat
+2022-08-17 20:22:08,079 [WARNING]  * Debugger is active!
+2022-08-17 20:22:08,094 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:23:06,219 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-17 20:23:06,267 [INFO]  * Restarting with stat
+2022-08-17 20:23:06,834 [WARNING]  * Debugger is active!
+2022-08-17 20:23:06,834 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:38:19,258 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 20:38:19,258 [INFO]  * Restarting with stat
+2022-08-17 20:38:19,695 [WARNING]  * Debugger is active!
+2022-08-17 20:38:19,711 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:43:17,116 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-17 20:43:17,163 [INFO]  * Restarting with stat
+2022-08-17 20:43:17,990 [WARNING]  * Debugger is active!
+2022-08-17 20:43:17,995 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:48:28,389 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\api_test.py', reloading
+2022-08-17 20:48:28,436 [INFO]  * Restarting with stat
+2022-08-17 20:48:29,095 [WARNING]  * Debugger is active!
+2022-08-17 20:48:29,095 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 20:48:50,368 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 20:48:50,368 [INFO]  * Restarting with stat
+2022-08-17 20:48:50,790 [WARNING]  * Debugger is active!
+2022-08-17 20:48:50,806 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 21:05:41,246 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 21:05:41,246 [INFO]  * Restarting with stat
+2022-08-17 21:05:41,980 [WARNING]  * Debugger is active!
+2022-08-17 21:05:41,980 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 21:09:14,677 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 21:09:14,677 [INFO]  * Restarting with stat
+2022-08-17 21:09:15,146 [WARNING]  * Debugger is active!
+2022-08-17 21:09:15,146 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:16:31,011 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:16:31,011 [INFO]  * Restarting with stat
+2022-08-17 22:16:31,480 [WARNING]  * Debugger is active!
+2022-08-17 22:16:31,480 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:17:44,448 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:17:44,448 [INFO]  * Restarting with stat
+2022-08-17 22:17:44,870 [WARNING]  * Debugger is active!
+2022-08-17 22:17:44,870 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:19:02,417 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:19:02,433 [INFO]  * Restarting with stat
+2022-08-17 22:20:12,834 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:20:12,834 [INFO]  * Restarting with stat
+2022-08-17 22:20:13,255 [WARNING]  * Debugger is active!
+2022-08-17 22:20:13,255 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:23:56,627 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 22:23:56,702 [INFO]  * Restarting with stat
+2022-08-17 22:23:57,306 [WARNING]  * Debugger is active!
+2022-08-17 22:23:57,322 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:34:42,080 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:34:42,080 [INFO]  * Restarting with stat
+2022-08-17 22:34:42,501 [WARNING]  * Debugger is active!
+2022-08-17 22:34:42,501 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:36:05,835 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:36:05,835 [INFO]  * Restarting with stat
+2022-08-17 22:36:06,273 [WARNING]  * Debugger is active!
+2022-08-17 22:36:06,273 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:38:22,215 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 22:38:22,278 [INFO]  * Restarting with stat
+2022-08-17 22:38:22,887 [WARNING]  * Debugger is active!
+2022-08-17 22:38:22,887 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:40:58,154 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 22:40:58,226 [INFO]  * Restarting with stat
+2022-08-17 22:40:58,751 [WARNING]  * Debugger is active!
+2022-08-17 22:40:58,751 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:42:52,629 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 22:42:52,675 [INFO]  * Restarting with stat
+2022-08-17 22:42:53,452 [WARNING]  * Debugger is active!
+2022-08-17 22:42:53,457 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:51:56,125 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 22:51:56,192 [INFO]  * Restarting with stat
+2022-08-17 22:53:25,305 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:53:25,305 [INFO]  * Restarting with stat
+2022-08-17 22:53:25,727 [WARNING]  * Debugger is active!
+2022-08-17 22:53:25,727 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 22:58:31,852 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 22:58:31,852 [INFO]  * Restarting with stat
+2022-08-17 22:58:32,337 [WARNING]  * Debugger is active!
+2022-08-17 22:58:32,337 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:00:04,734 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 23:00:04,780 [INFO]  * Restarting with stat
+2022-08-17 23:00:05,503 [WARNING]  * Debugger is active!
+2022-08-17 23:00:05,503 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:01:16,593 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 23:01:16,659 [INFO]  * Restarting with stat
+2022-08-17 23:01:17,175 [WARNING]  * Debugger is active!
+2022-08-17 23:01:17,175 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:08:55,726 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\tests\\utils_test.py', reloading
+2022-08-17 23:08:55,866 [INFO]  * Restarting with stat
+2022-08-17 23:08:56,576 [WARNING]  * Debugger is active!
+2022-08-17 23:08:56,576 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:18:56,722 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:18:56,722 [INFO]  * Restarting with stat
+2022-08-17 23:18:57,160 [WARNING]  * Debugger is active!
+2022-08-17 23:18:57,160 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:21:23,010 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:21:23,010 [INFO]  * Restarting with stat
+2022-08-17 23:21:23,448 [WARNING]  * Debugger is active!
+2022-08-17 23:21:23,448 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:23:59,048 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:23:59,048 [INFO]  * Restarting with stat
+2022-08-17 23:23:59,517 [WARNING]  * Debugger is active!
+2022-08-17 23:23:59,517 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:25:10,305 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:10] "GET / HTTP/1.1" 200 -
+2022-08-17 23:25:10,347 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:10] "[33mGET /img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-17 23:25:10,400 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:25:10,466 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-17 23:25:10,468 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:25:13,186 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:13] "GET /users/leo HTTP/1.1" 200 -
+2022-08-17 23:25:13,232 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:13] "[33mGET /users/img/eye.png HTTP/1.1[0m" 404 -
+2022-08-17 23:25:13,233 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:13] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:25:13,310 [INFO] 127.0.0.1 - - [17/Aug/2022 23:25:13] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:25:58,675 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:25:58,675 [INFO]  * Restarting with stat
+2022-08-17 23:25:59,112 [WARNING]  * Debugger is active!
+2022-08-17 23:25:59,112 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:27:51,656 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:27:51,656 [INFO]  * Restarting with stat
+2022-08-17 23:27:52,141 [WARNING]  * Debugger is active!
+2022-08-17 23:27:52,141 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:29:49,125 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:29:49,125 [INFO]  * Restarting with stat
+2022-08-17 23:29:49,594 [WARNING]  * Debugger is active!
+2022-08-17 23:29:49,610 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:38:02,184 [INFO]  * Detected change in 'C:\\Users\\Admin\\PycharmProjects\\coursework2_source\\app\\posts\\dao\\posts_dao.py', reloading
+2022-08-17 23:38:02,246 [INFO]  * Restarting with stat
+2022-08-17 23:38:02,874 [WARNING]  * Debugger is active!
+2022-08-17 23:38:02,874 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:38:27,056 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:38:27,056 [INFO]  * Restarting with stat
+2022-08-17 23:38:27,488 [WARNING]  * Debugger is active!
+2022-08-17 23:38:27,488 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:38:40,125 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:40] "GET /posts/1 HTTP/1.1" 200 -
+2022-08-17 23:38:40,230 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:40] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:38:40,234 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:40] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:38:40,329 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:40] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-17 23:38:56,604 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:56] "GET /posts/2 HTTP/1.1" 200 -
+2022-08-17 23:38:56,655 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:56] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:38:56,656 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:56] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:38:56,741 [INFO] 127.0.0.1 - - [17/Aug/2022 23:38:56] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-17 23:39:05,298 [INFO] 127.0.0.1 - - [17/Aug/2022 23:39:05] "GET /posts/4.html HTTP/1.1" 200 -
+2022-08-17 23:39:05,350 [INFO] 127.0.0.1 - - [17/Aug/2022 23:39:05] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:39:05,353 [INFO] 127.0.0.1 - - [17/Aug/2022 23:39:05] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:39:05,439 [INFO] 127.0.0.1 - - [17/Aug/2022 23:39:05] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-17 23:46:09,508 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-17 23:46:09,508 [INFO]  * Restarting with stat
+2022-08-17 23:46:10,087 [WARNING]  * Debugger is active!
+2022-08-17 23:46:10,087 [INFO]  * Debugger PIN: 143-949-170
+2022-08-17 23:46:13,932 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:13] "GET /posts/4.html HTTP/1.1" 200 -
+2022-08-17 23:46:14,016 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:14] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:46:14,084 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:14] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:46:14,085 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:14] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-17 23:46:22,711 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:22] "GET /users/larry HTTP/1.1" 200 -
+2022-08-17 23:46:22,762 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:22] "[33mGET /users/img/eye.png HTTP/1.1[0m" 404 -
+2022-08-17 23:46:22,763 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:22] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:46:22,849 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:22] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:46:28,545 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "GET /posts/8 HTTP/1.1" 200 -
+2022-08-17 23:46:28,600 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-17 23:46:28,601 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-17 23:46:28,689 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
