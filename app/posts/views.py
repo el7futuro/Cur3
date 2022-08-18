@@ -35,10 +35,10 @@ def page_search():
 
     result = request.args.get("s")
     posts = posts_dao.search_for_posts(result)
-
+    posts_count = len(posts)
     if posts:
 
-        return render_template('search.html', posts=posts)
+        return render_template('search.html', posts=posts, posts_count=posts_count)
     return f"Вы ничего не ввели или слова такого нет"
 
 

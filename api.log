@@ -265,3 +265,49 @@
 2022-08-17 23:46:28,600 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
 2022-08-17 23:46:28,601 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
 2022-08-17 23:46:28,689 [INFO] 127.0.0.1 - - [17/Aug/2022 23:46:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-18 19:24:33,797 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-18 19:24:33,800 [INFO]  * Restarting with stat
+2022-08-18 19:24:34,260 [WARNING]  * Debugger is active!
+2022-08-18 19:24:34,262 [INFO]  * Debugger PIN: 143-949-170
+2022-08-18 19:48:15,658 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:15] "GET / HTTP/1.1" 200 -
+2022-08-18 19:48:15,721 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:15] "[33mGET /img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:48:15,722 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:15] "[33mGET /static/css/styles.min.css HTTP/1.1[0m" 404 -
+2022-08-18 19:48:15,914 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:15] "[33mGET /static/img/eye.png HTTP/1.1[0m" 404 -
+2022-08-18 19:48:15,917 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:15] "[33mGET /static/img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:48:16,080 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:16] "[33mGET /static/img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:48:16,085 [INFO] 127.0.0.1 - - [18/Aug/2022 19:48:16] "[33mGET /static/img/eye.png HTTP/1.1[0m" 404 -
+2022-08-18 19:53:25,289 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-18 19:53:25,289 [INFO]  * Restarting with stat
+2022-08-18 19:53:25,939 [WARNING]  * Debugger is active!
+2022-08-18 19:53:25,939 [INFO]  * Debugger PIN: 143-949-170
+2022-08-18 19:53:31,092 [INFO] 127.0.0.1 - - [18/Aug/2022 19:53:31] "GET / HTTP/1.1" 200 -
+2022-08-18 19:53:31,209 [INFO] 127.0.0.1 - - [18/Aug/2022 19:53:31] "[33mGET /img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:53:31,261 [INFO] 127.0.0.1 - - [18/Aug/2022 19:53:31] "GET /static/css/styles.min.css HTTP/1.1" 200 -
+2022-08-18 19:53:31,353 [INFO] 127.0.0.1 - - [18/Aug/2022 19:53:31] "GET /static/img/eye.png HTTP/1.1" 200 -
+2022-08-18 19:53:31,367 [INFO] 127.0.0.1 - - [18/Aug/2022 19:53:31] "GET /static/img/bookmark.png HTTP/1.1" 200 -
+2022-08-18 19:54:10,195 [INFO] 127.0.0.1 - - [18/Aug/2022 19:54:10] "GET /search/?s=птицы HTTP/1.1" 200 -
+2022-08-18 19:54:10,245 [INFO] 127.0.0.1 - - [18/Aug/2022 19:54:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-18 19:54:10,247 [INFO] 127.0.0.1 - - [18/Aug/2022 19:54:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-18 19:54:10,334 [INFO] 127.0.0.1 - - [18/Aug/2022 19:54:10] "[33mGET /search/img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:56:14,856 [INFO]  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-08-18 19:56:14,856 [INFO]  * Restarting with stat
+2022-08-18 19:56:15,403 [WARNING]  * Debugger is active!
+2022-08-18 19:56:15,403 [INFO]  * Debugger PIN: 143-949-170
+2022-08-18 19:56:34,699 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:34] "GET /search/?s=тарелка HTTP/1.1" 200 -
+2022-08-18 19:56:34,784 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:34] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-18 19:56:34,841 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:34] "[33mGET /search/img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:56:34,843 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:34] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-18 19:56:43,119 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:43] "GET /search/?s=птицы HTTP/1.1" 200 -
+2022-08-18 19:56:43,162 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:43] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-18 19:56:43,164 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:43] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-18 19:56:43,256 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:43] "[33mGET /search/img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:56:51,083 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:51] "GET / HTTP/1.1" 200 -
+2022-08-18 19:56:51,131 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:51] "[33mGET /img/bookmark.png HTTP/1.1[0m" 404 -
+2022-08-18 19:56:51,132 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:51] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-18 19:56:51,242 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:51] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2022-08-18 19:56:51,246 [INFO] 127.0.0.1 - - [18/Aug/2022 19:56:51] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-18 19:57:19,700 [INFO] 127.0.0.1 - - [18/Aug/2022 19:57:19] "[32mGET /search?s=все HTTP/1.1[0m" 308 -
+2022-08-18 19:57:19,716 [INFO] 127.0.0.1 - - [18/Aug/2022 19:57:19] "GET /search/?s=все HTTP/1.1" 200 -
+2022-08-18 19:57:19,763 [INFO] 127.0.0.1 - - [18/Aug/2022 19:57:19] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2022-08-18 19:57:19,764 [INFO] 127.0.0.1 - - [18/Aug/2022 19:57:19] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2022-08-18 19:57:19,850 [INFO] 127.0.0.1 - - [18/Aug/2022 19:57:19] "[33mGET /search/img/bookmark.png HTTP/1.1[0m" 404 -
