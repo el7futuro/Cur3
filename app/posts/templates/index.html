@@ -17,7 +17,7 @@
         </svg>
       </a>
       <a href="/templates/bookmarks.html" class="header__bookmark-btn">
-        <img src="/img/bookmark.png" alt="" class="header__bookmark-icon" width="28">
+        <img src="/static/img/bookmark.png" alt="" class="header__bookmark-icon" width="28">
         <span class="header__bookmark-counter">3</span>
       </a>
     </div>
@@ -48,8 +48,8 @@
         <p class="item__descr">{{ post.content }}</p>
         <div class="item__post-info">
           <div class="item__counter">
-            <img src="/static/img/eye.png" alt="" class="item__counter-icon" width="26">
-            <span class="item__counter-text">{{ post.view_count}}</span>
+              <img src="/static/img/eye.png" alt="" class="item__counter-icon" width="26">
+              <span class="item__counter-text">{{ post.views_count }}</span>
           </div>
         </div>
         <div class="item__post-bottom">
